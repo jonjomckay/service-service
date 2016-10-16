@@ -24,19 +24,6 @@ public class Service implements Type {
     @Type.Property(name = "Version", contentType = ContentType.String)
     private String version;
 
-    public Service() {
-
-    }
-
-    public Service(String id, String name, String description, String uri, String icon, String version) {
-        this.id = id;
-        this.name = name;
-        this.description = description;
-        this.uri = uri;
-        this.icon = icon;
-        this.version = version;
-    }
-
     public String getId() {
         return id;
     }

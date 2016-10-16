@@ -1,0 +1,18 @@
+[
+  {
+    "id": "service-1",
+    "name": "Service",
+    "description": "An example service",
+    "icon": "icon.png",
+    "uri": "https://services.manywho.com/api/service/1",
+    "version": "1"
+  },
+  {
+    "id": "service-2",
+    "name": "Service 2",
+    "description": "Another example service",
+    "icon": "icon-2.png",
+    "uri": "https://services.manywho.com/api/service/2",
+    "version": "2"
+  }
+]
