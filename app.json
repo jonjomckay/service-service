@@ -1,0 +1,7 @@
+{
+  "name": "ManyWho Service Service",
+  "description": "A plugin that allows your ManyWho Flows to retrieve information on available services",
+  "repository": "https://github.com/jonjomckay/service-service",
+  "logo": "https://s3.amazonaws.com/manywho-service-assets/icons/service-service.png",
+  "keywords": ["manywho", "service", "plugin", "workflow"]
+}

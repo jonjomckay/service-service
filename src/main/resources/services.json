@@ -1,0 +1,58 @@
+[
+  {
+    "id": "box-3",
+    "name": "Box",
+    "description": "Do something cool with your files on Box",
+    "icon": "",
+    "uri": "https://services.manywho.com/api/box/3",
+    "version": "3"
+  },
+  {
+    "id": "email-1",
+    "name": "Email",
+    "description": "Send some emails, including attachments",
+    "icon": "",
+    "uri": "https://services.manywho.com/api/email/1",
+    "version": "1"
+  },
+  {
+    "id": "jira-1",
+    "name": "JIRA",
+    "description": "Create some issues, assign some tickets, progress some statuses",
+    "icon": "",
+    "uri": "https://services.manywho.com/api/jira/1",
+    "version": "1"
+  },
+  {
+    "id": "salesforce-1",
+    "name": "Salesforce",
+    "description": "Do something with one of many hundreds of objects, maybe? I don't really know what it does",
+    "icon": "",
+    "uri": "https://salesforce.manywho.com/plugins/api/salesforce/1",
+    "version": "1"
+  },
+  {
+    "id": "sql-1",
+    "name": "SQL",
+    "description": "Load and save some data from your external database",
+    "icon": "",
+    "uri": "https://services.manywho.com/api/sql/1",
+    "version": "1"
+  },
+  {
+    "id": "timer-1",
+    "name": "Timer",
+    "description": "Make your flow pause for a specified amount of time",
+    "icon": "",
+    "uri": "https://services.manywho.com/api/timer/1",
+    "version": "1"
+  },
+  {
+    "id": "twilio-1",
+    "name": "Twilio",
+    "description": "Call some people, or text them - it's up to you I guess",
+    "icon": "",
+    "uri": "https://services.manywho.com/api/twilio/2",
+    "version": "2"
+  }
+]
